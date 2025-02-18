@@ -1,4 +1,4 @@
-package com.example.todo_app_android
+package com.example.sns_app_android
 
 import org.junit.Test
 

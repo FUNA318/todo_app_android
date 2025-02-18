@@ -1,4 +1,4 @@
-package com.example.todo_app_android.ui.theme
+package com.example.sns_app_android.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun Todo_app_androidTheme(
+fun Sns_app_androidTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

@@ -1,4 +1,4 @@
-package com.example.todo_app_android.ui.theme
+package com.example.sns_app_android.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

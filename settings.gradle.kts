@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "todo_app_android"
+rootProject.name = "sns_app_android"
 include(":app")
